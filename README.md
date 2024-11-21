@@ -1,2 +1,2 @@
-# samples
-A GOTODOCO sample repository to get started.
+# KickStarter
+A GOTODOCO kickstarter repository to get started on GitHub.
