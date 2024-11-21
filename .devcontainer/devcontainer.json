@@ -1,5 +1,7 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {"ghcr.io/devcontainers/features/docker-in-docker:2": {"ghcr.io/devcontainers/features/go:1": {"ghcr.io/devcontainers/features/desktop-lite:1": {"ghcr.io/devcontainers-extra/features/mkdocs:2": {"ghcr.io/rocker-org/devcontainer-features/rstudio-server:0": {"ghcr.io/swift-server-community/swift-devcontainer-features/SwiftFormat:0": {"ghcr.io/nikitakurpas/features/vapor-toolbox:1": {"ghcr.io/devcontainers-extra/features/vscode-server:1": {}}}}}}}}
+  "features": {
+    "ghcr.io/sebst/devcontainer-features/desktop:0": {},
+    "ghcr.io/sebst/devcontainer-features/desktop-xserver:0": {}
   }
 }
